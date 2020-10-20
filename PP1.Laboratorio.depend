@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1603153219 source:c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"DataStore.h"
+	"bicicletas.h"
+
+1603153620 source:c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\color.c
+	"Color.h"
+	"stdio.h"
+	"string.h"
+
+1603149417 source:c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\bicicletas.c
+	"Validaciones.h"
+	"string.h"
+	<stdio.h>
+	<stdlib.h>
+
+1603149230 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\bicicletas.h
+	"Tipos.h"
+	"Color.h"
+
+1603152000 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\tipos.h
+
+1603152027 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\color.h
+
+1603153712 source:c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\tipos.c
+	"Tipos.h"
+	"string.h"
+	"stdio.h"
+
+1603153219 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\datastore.h
+
+1603137593 source:c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\validaciones.c
+	"Validaciones.h"
+
+1603137593 c:\users\lauta\onedrive\desktop\codeblock ejercicios\trabajos practicos\pp1.laboratorio\validaciones.h
+	"bicicletas.h"
+
